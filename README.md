@@ -2,7 +2,7 @@
 
 | No | Nama Halaman | Screenshot |
 |----|--------------|------------|
-| **Act 11** | | |
+| **Act 11**  | |
 | 1 | HomePage | <img width="403" height="884" alt="Screenshot 2026-01-02 205627" src="https://github.com/user-attachments/assets/69562e07-84f4-4353-a79b-2841ffcc9d3f" /> |
 | 2 | Tambah Siswa | <img width="400" height="874" alt="Screenshot 2026-01-02 210006" src="https://github.com/user-attachments/assets/e3a8644b-8a37-435b-b66d-183b900e5ab7" /> |
 | 3 | Setelah Tambah Siswa | <img width="401" height="861" alt="Screenshot 2026-01-02 210052" src="https://github.com/user-attachments/assets/1ddaa503-7922-436d-8336-1fff58291945" /> |
